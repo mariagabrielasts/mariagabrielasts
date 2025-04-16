@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-illustration.png" alt="Ilustração de perfil Maria Gabriela" style="max-width: 100%; height: auto; border-radius: 20px;" width="300">
+  <img src="github.png" alt="Ilustração de perfil Maria Gabriela" style="max-width: 100%; height: auto;" width="300">
 </div>
 
 # Hello :) I'm Maria Gabriela!
