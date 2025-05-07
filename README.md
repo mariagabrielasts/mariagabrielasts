@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a final-year Public Administration student at
 ## 🎓 Education
 - **Federal University of Lavras (UFLA)** – Lavras, Minas Gerais  
   *Bachelor’s Degree in Public Administration (2021–2025)*  
-  *(Expected Graduation: December 2025)*
+  *(Expected Graduation: August/December 2025)*
 
 - **Anglo American Culture Center (CCAA)** – Advanced English (2017–2022)
 
