@@ -4,7 +4,7 @@
 
 # Hello :) I'm Maria Gabriela!
 
-Welcome to my GitHub profile! I am a final-year Public Administration student at the Federal University of Lavras (UFLA), passionate about public sector management, fiscal policy, and sustainable development. My academic and professional experiences have equipped me with strong analytical, organizational, and interpersonal skills, which I aim to leverage to create innovative and impactful solutions.
+Welcome to my GitHub profile! I am a final-year Public Administration student at the Federal University of Lavras (UFLA), with a strong passion for data science, societal management, and sustainable development. My academic and professional experiences have equipped me with robust analytical, organizational, and interpersonal skills, which I aim to leverage to create innovative solutions that make an impact on society.
 
 ## 🎓 Education
 - **Federal University of Lavras (UFLA)** – Lavras, Minas Gerais  
@@ -58,7 +58,6 @@ Welcome to my GitHub profile! I am a final-year Public Administration student at
 ## 🌍 Location
 - Based in Jundiaí, São Paulo, with access to in-person engagements and collaborations in the region.
 
-## 💬 Let's connect!
 - 💼 LinkedIn: (https://www.linkedin.com/in/mariagabrielasts/)
 
-I’m always open to collaboration and conversations about public policy, data analysis, and sustainable development. Feel free to reach out! 
+I am always open to collaboration and discussions. Feel free to connect with me!
