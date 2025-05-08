@@ -1,6 +1,6 @@
 <div align="center">
   <img src="github.png" alt="Ilustração de perfil Maria Gabriela" width="300">
-</div> 
+</div>
 
 # Hello :) I'm Maria Gabriela!
 
